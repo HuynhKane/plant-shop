@@ -13,7 +13,7 @@ export default function HomePage() {
           <p className="eyebrow">Plant shop MVP</p>
           <h1>Website trưng bày sản phẩm cây cảnh</h1>
           <p className="hero-text">
-            Bản khởi tạo UI với React, sẵn sàng để nối Supabase và deploy lên Vercel.
+            Bản khởi tạo UI 
           </p>
         </div>
       </div>

@@ -14,7 +14,7 @@ export default function MainLayout() {
       </main>
 
       <footer className="site-footer">
-        <div className="container">© 2026 Green Corner</div>
+        <div className="container">© 2026 SoiL Gardening</div>
       </footer>
     </div>
   )

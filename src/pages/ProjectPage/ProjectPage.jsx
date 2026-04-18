@@ -15,7 +15,7 @@ export default function ProjectPage() {
   return (
     <section>
       <Breadcrumb items={crumbs} />
-      <SectionTitle title="Dự án tiêu biểu" subtitle="Một số không gian đã được Green Corner đồng hành." />
+      <SectionTitle title="Dự án tiêu biểu" subtitle="Một số không gian đã được SoiL Gardening đồng hành." />
       <ProjectGrid>
         {projects.map((project) => (
           <ProjectCard key={project.id} project={project} />

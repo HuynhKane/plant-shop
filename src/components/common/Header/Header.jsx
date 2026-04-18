@@ -8,7 +8,7 @@ export default function Header() {
     <header className="site-header">
       <div className="container header-row">
         <Link to="/" className="brand">
-          Green Corner
+          SoiL Gardening
         </Link>
         <div className="header-row__actions">
           <SearchButton />
