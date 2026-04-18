@@ -1,0 +1,8 @@
+.section-title__heading {
+  margin: 0 0 8px;
+}
+
+.section-title__subtitle {
+  margin: 0;
+  color: var(--color-muted, #4b5563);
+}

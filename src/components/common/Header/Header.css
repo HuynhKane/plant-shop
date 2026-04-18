@@ -1,0 +1,13 @@
+.header-row__actions {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+@media (max-width: 768px) {
+  .header-row__actions {
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
